@@ -28,11 +28,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wave/proprietary/libsrv_init.so:system/vendor/lib/libsrv_init.so \
     vendor/samsung/wave/proprietary/libsrv_um.so:system/vendor/lib/libsrv_um.so \
     vendor/samsung/wave/proprietary/libusc.so:system/vendor/lib/libusc.so \
-    vendor/samsung/wave/proprietary/lib_tvoutengine.so:system/lib/lib_tvoutengine.so \
-    vendor/samsung/wave/proprietary/libtvout.so:system/lib/libtvout.so \
-    vendor/samsung/wave/proprietary/libtvout_jni.so:system/lib/libtvout_jni.so \
-    vendor/samsung/wave/proprietary/libtvoutfimc.so:system/lib/libtvoutfimc.so \
-    vendor/samsung/wave/proprietary/libtvouthdmi.so:system/lib/libtvouthdmi.so \
-    vendor/samsung/wave/proprietary/libtvoutservice.so:system/lib/libtvoutservice.so \
-    vendor/samsung/wave/proprietary/libakm.so:system/vendor/lib/libakm.so \
-    vendor/samsung/wave/proprietary/tvoutserver:system/bin/tvoutserver
+    vendor/samsung/wave/proprietary/libakm.so:system/vendor/lib/libakm.so
